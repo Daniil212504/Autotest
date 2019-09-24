@@ -13,8 +13,8 @@ Test case scenario:
 
 Stack of technologies for implementation:
 
-Platform: java 
-Build and run: maven
-Test framework: junit4
-UI test: selenium 3 
-Reporting: allure plugin
+Platform: java;
+Build and run: maven;
+Test framework: junit4;
+UI test: selenium 3; 
+Reporting: allure plugin.
